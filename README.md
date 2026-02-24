@@ -87,8 +87,9 @@ Include your plot here
 
 ### Predictions 
 
-Include the predictions on test data
+Predicted Price: [1095.8416]
+Actual Price: [1115.65]
 
 ## Result
 
-
+The RNN model was successfully implemented for stock price prediction.
