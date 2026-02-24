@@ -88,6 +88,7 @@ Include your plot here
 ### Predictions 
 
 Predicted Price: [1095.8416]
+
 Actual Price: [1115.65]
 
 ## Result
