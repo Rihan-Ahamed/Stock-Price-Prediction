@@ -15,6 +15,13 @@ Import required libraries such as torch, torch.nn, torch.optim, numpy, pandas, a
 
 ### Step 2:
 Load the dataset (e.g., stock closing prices from CSV), preprocess it by normalizing values between 0 and 1, and create input sequences for training/testing.
+trainset:
+<img width="1063" height="669" alt="image" src="https://github.com/user-attachments/assets/f23a7f33-6b24-4952-8608-dfec0773c4d7" />
+
+testset:
+<img width="1085" height="720" alt="image" src="https://github.com/user-attachments/assets/0b3effeb-993b-48bb-b97a-426da77ccb5d" />
+
+
 
 ### Step 3:
 Define the RNN model architecture with an input layer, hidden layers, and an output layer to predict stock prices.
